@@ -4,39 +4,28 @@ I am full stack developer .Alongside my studies, I work as a part-time educator,
 ## About Me
 
 - 🚀  Full stack developer
-
 - 💻 Educator
-
 - 💂🏻 Ex-NCC cadet
-
 - 🧠 Passionate about continuous learning and mentoring.
-
 - 🌍 Based in Mumbai, India
 
 
 ## Programming Skills
-- **Languages:** Html , css , java , Python,  JavaScript, C, C++
-
-- **Frameworks:** React, Node.js, Express
-
-- **Tools:** , Vscode,  Git
+- **Languages:** 🌐Html , 🎨css , ☕java , 🐍Python, 💻JavaScript, 💾C,C++
+- **Frameworks:** ⚛️React,🌱 Node.js, ⚡ Express
+- **Tools:** 🧑‍💻 Vscode, 📁 Git
 
 
 ## Area of Expertise
 - 🌐 Web Apps, Mobile apps
-
 - 📈 Project Management
-
 - 🕐 Time Management
-
 - 🐞 Bug-free and Error-free deployment
 
 
 ## Contact
 - **Email:** aryankuril.s@gmail.com
-
 - **Linkedin:** https://www.linkedin.com/in/aryankuril
-
 - **Portfolio:** https://aryankuril-portfolio.netlify.app
 
 
