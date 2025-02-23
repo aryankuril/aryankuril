@@ -1,5 +1,5 @@
 # Hi there, I'm Aryan Kuril👋
-I am full stack developer .Alongside my studies, I work as a part-time educator, sharing my knowledge and helping others grow in the field of technology. Additionally, I am gaining hands-on experience as an intern at WolfX, where I am refining my technical and professional skills.
+I am full stack developer .Alongside my studies, I work as a part-time educator, Sharing my knowledge and helping others grow in the field of technology. Additionally, I am gaining hands-on experience as an intern at WolfX, Where I am refining my technical and professional skills.
 
 ## About Me
 
@@ -23,20 +23,20 @@ I am full stack developer .Alongside my studies, I work as a part-time educator,
 
 
 ## Area of Expertise
--🌐 Web Apps, Mobile apps
+- 🌐 Web Apps, Mobile apps
 
--📈 Project Management
+- 📈 Project Management
 
--🕐 Time Management
+- 🕐 Time Management
 
--🐞 Bug-free and Error-free deployment
+- 🐞 Bug-free and Error-free deployment
 
 
 ## Contact
--**Email:** aryankuril.s@gmail.com
+- **Email:** aryankuril.s@gmail.com
 
--**Linkedin:** https://www.linkedin.com/in/aryankuril
+- **Linkedin:** https://www.linkedin.com/in/aryankuril
 
--**Portfolio:** https://aryankuril-portfolio.netlify.app
+- **Portfolio:** https://aryankuril-portfolio.netlify.app
 
 
