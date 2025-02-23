@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there, I'm Aryan Kuril👋
+ I am full stack developer .Alongside my studies, I work as a part-time educator, sharing my knowledge and helping others grow in the field of technology. Additionally, I am gaining hands-on experience as an intern at WolfX, where I am refining my technical and professional skills.
 
-<!--
-**aryankuril/aryankuril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🚀  Full stack developer 
+💻 Educator
+💂🏻 Ex-NCC cadet
+🧠 Passionate about continuous learning and mentoring.
+🌍 Based in Mumbai, India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Skills
+Languages: Html , css , java , Python,  JavaScript, C, C++
+Frameworks: React, Node.js, Express
+Tools: , Vscode,  Git
+
+
+Area of Expertise
+🌐 Web Apps, Mobile apps
+📈 Project Management
+🕐 Time Management
+🐞 Bug-free and Error-free deployment
+
+Contact
+Email: aryankuril.s@gmail.com
+Linkedin: https://www.linkedin.com/in/aryankuril
+Portfolio : https://aryankuril-portfolio.netlify.app
+
