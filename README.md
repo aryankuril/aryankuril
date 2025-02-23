@@ -11,7 +11,7 @@ I am full stack developer .Alongside my studies, I work as a part-time educator,
 
 
 ## Programming Skills
-- **Languages:** 🌐Html , 🎨css , ☕java , 🐍Python, 💻JavaScript, 💾C,C++
+- **Languages:** 🌐Html , 🎨Css , ☕Java , 🐍Python, 💻JavaScript, 💾C,C++
 - **Frameworks:** ⚛️React,🌱 Node.js, ⚡ Express
 - **Tools:** 🧑‍💻 Vscode, 📁 Git
 
