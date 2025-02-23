@@ -3,23 +3,23 @@ I am full stack developer .Alongside my studies, I work as a part-time educator,
 
 ## About Me
 
--🚀  Full stack developer
+- 🚀  Full stack developer
 
--💻 Educator
+- 💻 Educator
 
--💂🏻 Ex-NCC cadet
+- 💂🏻 Ex-NCC cadet
 
--🧠 Passionate about continuous learning and mentoring.
+- 🧠 Passionate about continuous learning and mentoring.
 
--🌍 Based in Mumbai, India
+- 🌍 Based in Mumbai, India
 
 
 ## Programming Skills
--**Languages:** Html , css , java , Python,  JavaScript, C, C++
+- **Languages:** Html , css , java , Python,  JavaScript, C, C++
 
--**Frameworks:** React, Node.js, Express
+- **Frameworks:** React, Node.js, Express
 
--**Tools:** , Vscode,  Git
+- **Tools:** , Vscode,  Git
 
 
 ## Area of Expertise
