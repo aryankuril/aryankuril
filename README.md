@@ -2,11 +2,17 @@
 I am full stack developer .Alongside my studies, I work as a part-time educator, sharing my knowledge and helping others grow in the field of technology. Additionally, I am gaining hands-on experience as an intern at WolfX, where I am refining my technical and professional skills.
 
 ## About Me
+
+
 -🚀  Full stack developer 
 -💻 Educator
+
 -💂🏻 Ex-NCC cadet
+
 -🧠 Passionate about continuous learning and mentoring.
+
 -🌍 Based in Mumbai, India
+
 
 ## Programming Skills
 -**Languages:** Html , css , java , Python,  JavaScript, C, C++
